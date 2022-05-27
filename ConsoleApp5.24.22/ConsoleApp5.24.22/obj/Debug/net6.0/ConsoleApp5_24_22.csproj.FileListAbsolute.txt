@@ -1,0 +1,15 @@
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.csproj.AssemblyReference.cache
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.AssemblyInfoInputs.cache
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.AssemblyInfo.cs
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.csproj.CoreCompileInputs.cache
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\bin\Debug\net6.0\ConsoleApp5_24_22.exe
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\bin\Debug\net6.0\ConsoleApp5_24_22.deps.json
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\bin\Debug\net6.0\ConsoleApp5_24_22.runtimeconfig.json
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\bin\Debug\net6.0\ConsoleApp5_24_22.dll
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\bin\Debug\net6.0\ConsoleApp5_24_22.pdb
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.dll
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\refint\ConsoleApp5_24_22.dll
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.pdb
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ConsoleApp5_24_22.genruntimeconfig.cache
+C:\Users\sbeck\OneDrive\CIS123\cse7_allfiles\C#\ConsoleApp5.24.22\ConsoleApp5.24.22\obj\Debug\net6.0\ref\ConsoleApp5_24_22.dll
